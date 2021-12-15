@@ -4,15 +4,15 @@ const mongoose = require('mongoose')
 const professorSchema = new mongoose.Schema({
 
     Name: {
-        type: String,
+        type: String, // Name of Professor
         required: true
     },
-    Subject: {
+    Subject: {         // What subject he teaches
         type: String,
         required: true
     },
     PHD: {
-        type: Boolean,
+        type: Boolean,  // has he done PHD or not ?
         required: true,
         default: false
     }
