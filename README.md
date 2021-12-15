@@ -1,5 +1,5 @@
 # Web3_Node_Basic_Api
--[x] Rupesh Panta
+- [x] Rupesh Panta
 
 This is my baisc Api created with  Mongodb, Node and Express
 
@@ -39,24 +39,27 @@ open postman and send api request
 -Download Postman for testing Get, Post, Patch and Delete Functionality
 
 # ScreenShots: 
+-Server Running successfully <br> <br>
 ![clean-test-build1.png](/screenshots/s.png)<br/> 
--Post method  - > Adding data to Database
-![clean-test-build1.png](/screenshots/1addingram.png)<br/> 
+- # Post method  - > Adding data to Database
+![clean-test-build1.png](/screenshots/1addingram.png)<br/>  <br>
 Successfully added in Mongodb
 ![clean-test-build1.png](/screenshots/2.png)<br/> <br/> 
 ![clean-test-build1.png](screenshots/3.png)<br/> <br/> 
--Get Method -> Reading data from database
+# Get Method -> Reading data from database
 ![clean-test-build1.png](screenshots/4.png)<br/> <br/> 
--Get Method with id -> Reading data by ID
+-Get Method with id -> Reading data by ID <br>
 ![clean-test-build1.png](screenshots/5.png)<br/> <br/> 
--Patch method - >updating data <br>
+# Patch method - >updating data 
+<br>
 -updating Castleton degree to PHD
+
 ![clean-test-build1.png](/screenshots/6.png)<br/> <br/> 
 ![clean-test-build1.png](screenshots/7.png)<br/> <br/>
 -After patching, get method will display patched data
 ![clean-test-build1.png](screenshots/patched.png)
 <br>
--Delete method -removing data from database
+# Delete method -removing data from database
 ![clean-test-build1.png](screenshots/9deletewarren.png)
 
 ![clean-test-build1.png](/screenshots/w.png)<br/> 
