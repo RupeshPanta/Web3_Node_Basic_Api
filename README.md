@@ -1,6 +1,6 @@
 # Web3_Node_Basic_Api
 
-This is a simple Rest API that has CRUD functionality. I created this using Node, Mongodb as database and express as Server.
+This is a simple Rest API that has CRUD functionality. I created this using Node, Mongodb as database and express as Server and have used postman to test http methods.
  
 
 # Simple REST API
@@ -31,7 +31,7 @@ open postman and send api request
 - Check professors.js under routes for handeling different routes
 - Check professors.js under models to see how I have defined schema for my data.
 ``` 
-# Tools you need:
+# Tools Needed :
 -Download Mongodb Compass to analyze data visually and interact with database <br>
 -Download Postman for testing Get, Post, Patch and Delete Functionality
 
