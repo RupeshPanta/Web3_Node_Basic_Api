@@ -1,0 +1,27 @@
+{
+  "name": "web3_node_basic_api",
+  "version": "1.0.0",
+  "description": "basic_api",
+  "main": "app.js",
+  "scripts": {
+    "start":"nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RupeshPanta/Web3_Node_Basic_Api.git"
+  },
+  "author": "Rupesh Panta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RupeshPanta/Web3_Node_Basic_Api/issues"
+  },
+  "homepage": "https://github.com/RupeshPanta/Web3_Node_Basic_Api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.2.2",
+    "mongoose": "^6.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
